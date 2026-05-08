@@ -1,4 +1,4 @@
-## > 👑RussoStyle UI V0.9.1👑 <
+## > 👑RussoStyle UI V0.9.6👑 <
 
 —
 
@@ -13,6 +13,7 @@
 ## Menu Social:
 
 -
+
 ...row-start horizontal=spacedBy(8)
 
 ...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.gg?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
@@ -26,6 +27,7 @@
 ## ZalithLauncher2:
 
 -
+
 ...button-filled-tonal text="- Verificar atualizações do ZL2" event="check_update"
 ...button-outlined text="- Site oficial do ZalithLauncher2 (CN)"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
 ...button-outlined text="- Link do ZalithLauncher2 no GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
@@ -34,11 +36,20 @@
 
 ## Opções de atalho:
 
--
+—
 
 ## ⚡ Inicialização rápida
 
-...button text="INICIAR O JOGO DIRETAMENTE" event="launch_game" width=100% shape=20dp
+...button-filled-tonal text="INICIAR O JOGO DIRETAMENTE" event="launch_game" width=100% shape=20dp
+
+- - -
+
+## Downloads:
+
+-
+
+...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=35%
+...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=35%
 
 - - -
 
@@ -47,13 +58,19 @@
 Interface personalizada focada em:
 
 - Visual limpo
-- Atalhos rápidos
+- Atalhos rápidos do launcher
 - Praticidade
 - Organização
 - Estilo moderno e simples
+- Downloads diretos
 
 —
 
 ## 🧰 Atualização/Mudanças na RussoStyle UI
 
-- Número da versão da RussoStyle UI alterada para: 0.9.1
+- RussoStyle UI atualizada para versão: 0.9.6😍
+
+- adicionado a categoria de downloads com alguns downloads
+diretos para itens e objetos que você pode utilizar no seu ZL2
+
+- alterações mínimas em alguns componentes e no código (nada tão perceptível)
