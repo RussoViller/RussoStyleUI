@@ -1,4 +1,4 @@
-## > 👑RussoStyle UI V0.9.6👑 <
+## > 👑RussoStyle UI V0.9.7👑 <
 
 —
 
@@ -16,7 +16,7 @@
 
 ...row-start horizontal=spacedBy(8)
 
-...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.gg?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
+...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
 
 ...button-filled-tonal text="> Outros Links <" event="url {https://beacons.ai/russoviller_}" weight=(1)
 
@@ -44,12 +44,14 @@
 
 - - -
 
-## Downloads:
+## Alguns Downloads:
 
 -
 
 ...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=35%
+...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=35%
 ...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=35%
+
 
 - - -
 
@@ -68,9 +70,9 @@ Interface personalizada focada em:
 
 ## 🧰 Atualização/Mudanças na RussoStyle UI
 
-- RussoStyle UI atualizada para versão: 0.9.6😍
+- RussoStyle UI atualizada para versão: 0.9.7!!!😍🔥
 
-- adicionado a categoria de downloads com alguns downloads
-diretos para itens e objetos que você pode utilizar no seu ZL2
+- pequena alteração no nome da categoria de downloads + acesso
+direto a pasta de onde se encontra todos os meus Modpacks disponíveis!
 
-- alterações mínimas em alguns componentes e no código (nada tão perceptível)
+- mudança no link do tiktok para funcionar corretamente (troquei duas letras do @, kk)
