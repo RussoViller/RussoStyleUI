@@ -1,4 +1,4 @@
-## > 👑RussoStyle UI V0.9.8👑 <
+## > 👑RussoStyle UI V1.0.0👑 <
 
 —
 
@@ -6,7 +6,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=35% shape=22dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=32% shape=20dp
 
 - - -
 
@@ -15,6 +15,8 @@
 -
 
 ...row-start horizontal=spacedBy(8)
+
+
 
 ...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
 
@@ -26,11 +28,17 @@
 
 ## ZalithLauncher2:
 
--
 
-...button-filled-tonal text="- Verificar atualizações do ZL2" event="check_update"
-...button-outlined text="- Site oficial do ZalithLauncher2 (CN)"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
-...button-outlined text="- Link do ZalithLauncher2 no GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
+...column-start horizontal=Center
+
+...button-filled-tonal  text="> Verificar atualização do ZL2 <"  event="check_update"
+
+...image  url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/2e8a1aeb26b031f5a33be01891eb1079cdbad8d3/190403391.png" width=22% shape=12dp
+
+...column-end
+&nbsp;
+...button-outlined text="* Site oficial do ZalithLauncher2 (CN)"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
+...button-outlined text="* Link do ZalithLauncher2 no GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
 - - -
 
@@ -40,7 +48,11 @@
 
 ## ⚡ Inicialização rápida
 
-...button-filled-tonal text="INICIAR O JOGO DIRETAMENTE" event="launch_game" width=100% shape=20dp
+...column-start horizontal=Center
+
+...button-filled-tonal text="Iniciar o jogo com estilo" event="launch_game" width=99% shape=14dp
+
+...column-end
 
 - - -
 
@@ -71,6 +83,10 @@ Interface personalizada focada em:
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V0.9.8!😍🔥 (09/05/2026 | 12:28)
+- RussoStyle UI atualizada: V1.0.0!😍🔥 (09/05/2026 | 13:20)
 
-- Adição de um novo botão para download de wallpapers animados!
+- pequena reformulada dentro da da categoria: ZalithLauncher2
+
+- mudança no nome do botão da opção de inicialização rápida.
+
+- tamanho da minha foto diminuída em 3%.
