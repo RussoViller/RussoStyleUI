@@ -83,9 +83,9 @@ Interface personalizada focada em:
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.0!😍🔥 (09/05/2026 | 13:20)
+- RussoStyle UI atualizada: V1.0.0!😍🔥 (09/05/2026 | 13:25)
 
-- pequena reformulada dentro da da categoria: ZalithLauncher2
+- pequena reformulada dentro da categoria: ZalithLauncher2
 
 - mudança no nome do botão da opção de inicialização rápida.
 
