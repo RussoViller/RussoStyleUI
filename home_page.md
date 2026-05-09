@@ -71,6 +71,6 @@ Interface personalizada focada em:
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para versão: 0.9.8!!!😍🔥
+- RussoStyle UI atualizada: V0.9.8!😍🔥 (09/05/2026 | 12:28)
 
 - Adição de um novo botão para download de wallpapers animados!
