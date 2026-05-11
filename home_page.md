@@ -1,8 +1,9 @@
-## 👑 > RussoStyle UI < 👑
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👑 > RussoStyle UI < 👑
 
-### ⚙️ > Versão: 1.0.1 < ⚙️
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⚙️ > Versão: 1.0.3 < ⚙️
 
-—
+&nbsp;
+&nbsp;
 
 - Página inicial customizada do RussoViller!
 
@@ -14,17 +15,20 @@
 
 ## Menu Social:
 
--
+&nbsp;
 
 ...row-start horizontal=spacedBy(8)
 
-
-
 ...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
-
 ...button-filled-tonal text="> Outros Links <" event="url {https://beacons.ai/russoviller_}" weight=(1)
 
 ...row-end
+
+...column-start horizontal=Center
+
+...button text="> Perfil Do YouTube <"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" width=50%
+
+...column-end
 
 - - -
 
@@ -62,15 +66,18 @@
 
 -
 
-...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=35%
-...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=35%
-...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=35%
-...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=35%
+...column-start horizontal=Center
 
+...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=42%
+...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
+...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
+...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=42%
+
+...column-end
 
 - - -
 
-## 👑 Sobre a RussoStyle UI 1.0.1
+## 👑 Sobre a RussoStyle UI 1.0.3
 
 - Visual limpo.
 - Atalhos rápidos do launcher. (alguns ainda chegaram)
@@ -83,6 +90,10 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.1!😍🔥 (10/05/2026 | 13:57)
+- RussoStyle UI atualizada: V1.0.3!😍🔥 (10/05/2026 | 23:42)
 
-- pequenas mudanças simples
+- Adicionado o link do meu canal do YouTube!
+
+- Centralização dos botões da categoria de downloads.
+
+- Centralização dos títulos: 👑 > RussoStyle UI < 👑 / ⚙️ > Versão: 1.0.3 < ⚙️
