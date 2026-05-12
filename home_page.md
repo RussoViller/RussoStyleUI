@@ -1,11 +1,11 @@
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👑 > RussoStyle UI < 👑
+## 👑 > RussoStyle UI < 👑
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⚙️ > Versão: 1.0.4 < ⚙️
+### ⚙️ > Versão: 1.0.5 < ⚙️
 
 &nbsp;
 &nbsp;
 
-- Página inicial customizada do RussoViller!
+**- Página inicial customizada do RussoViller!**
 
 - - -
 
@@ -76,7 +76,7 @@
 
 - - -
 
-## 👑 Sobre a RussoStyle UI 1.0.4
+## 👑 Sobre a RussoStyle UI 1.0.5
 
 - Visual limpo.
 - Atalhos rápidos do launcher. (alguns ainda chegaram)
@@ -89,6 +89,6 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.4!😍🔥 (11/05/2026 | 2:56)
+- RussoStyle UI atualizada: V1.0.5!😍🔥 (12/05/2026 | 2:44)
 
-- Removido o botão de download do Mobile Glues
+- nome do topo voltou para oque era antes.
