@@ -1,6 +1,4 @@
-## 👑 > RussoStyle UI < 👑
-
-### ⚙️ > Versão: 1.0.5 < ⚙️
+## 👑 > RussoStyle UI | v1.0.7 < 👑
 
 &nbsp;
 &nbsp;
@@ -9,7 +7,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=32% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=20dp
 
 - - -
 
@@ -71,12 +69,13 @@
 ...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=42%
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
 ...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
+...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=42%
 
 ...column-end
 
 - - -
 
-## 👑 Sobre a RussoStyle UI 1.0.5
+## 👑 Sobre a RussoStyle UI!
 
 - Visual limpo.
 - Atalhos rápidos do launcher. (alguns ainda chegaram)
@@ -89,6 +88,10 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.5!😍🔥 (12/05/2026 | 2:44)
+- RussoStyle UI atualizada para: v1.0.7!😍🔥 (13/05/2026 | 3:00)
 
-- nome do topo voltou para oque era antes.
+- Número da versão agora está junto do nome da UI.
+
+- Novo botão para download do meu HUD.
+
+- +3 Novos Modpacks adicionados dentro do botão de Modpacks!
