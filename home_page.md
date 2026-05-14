@@ -1,4 +1,4 @@
-## 👑 > RussoStyle UI | v1.0.7 < 👑
+## 👑 > RussoStyle UI | v1.0.8 < 👑
 
 &nbsp;
 &nbsp;
@@ -7,7 +7,11 @@
 
 - - -
 
+...column-start horizontal=Center
+
 ...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=20dp
+
+...column-end
 
 - - -
 
@@ -88,10 +92,6 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.0.7!😍🔥 (13/05/2026 | 3:00)
+- RussoStyle UI atualizada para: v1.0.8!😍🔥 (14/05/2026 | 18:35)
 
-- Número da versão agora está junto do nome da UI.
-
-- Novo botão para download do meu HUD.
-
-- +3 Novos Modpacks adicionados dentro do botão de Modpacks!
+- Centralização da minha foto
