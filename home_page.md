@@ -1,4 +1,4 @@
-## 👑 > RussoStyle UI | v1.1.0 < 👑
+## 👑 > RussoStyle UI | v1.1.2 < 👑
 
 &nbsp;
 &nbsp;
@@ -9,7 +9,7 @@
 
 ...column-start horizontal=Center
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=29% shape=20dp
 
 ...column-end
 
@@ -52,15 +52,7 @@
 
 ## Opções de atalho:
 
-—
-
-## ⚡ Inicialização rápida
-
-...column-start horizontal=Center
-
-...button-filled-tonal text="Iniciar o jogo com estilo" event="launch_game" width=99% shape=14dp
-
-...column-end
+**Nada por enquanto.**
 
 - - -
 
@@ -93,6 +85,6 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.1.0!😍🔥 (15/05/2026 | 2:51)
+- RussoStyle UI atualizada para: v1.1.2!😍🔥 (18/05/2026 | 21:42)
 
-- Adicionado o botão para download da minha texturas
+-  Removido a opção de inicialização rápida.
