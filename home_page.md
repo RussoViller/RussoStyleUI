@@ -1,9 +1,11 @@
-## 👑 > RussoStyle UI | v1.1.2 < 👑
+## 👑 > RussoStyle UI | v1.2.0 < 👑 
+
+**📝 > Versão do Launcher da UI: 2.4.4 < 📝**
 
 &nbsp;
 &nbsp;
 
-**- Página inicial customizada do RussoViller!**
+## * Página inicial customizada do RussoViller!
 
 - - -
 
@@ -50,9 +52,17 @@
 
 - - -
 
-## Opções de atalho:
+## Opções de atalho do launcher:
 
-**Nada por enquanto.**
+**⚡ Inicialização Rápida**
+
+...button text="🚪 Entrar no jogo 🚪" event="launch_game" width=99% shape=20dp
+
+—
+
+## 🛠 Compartilhamento de Logs
+
+...button text="📄 Compartilhar Logs do Jogo 📃" event="share_game_log" width=99% shape=20dp
 
 - - -
 
@@ -66,6 +76,7 @@
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
 ...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
 ...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=42%
+...button-outlined text="Minhas Shaders" event="url {https://www.mediafire.com/folder/xce4845w8b1wb/SHADERS}" width=42%
 ...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=42%
 
 ...column-end
@@ -85,6 +96,12 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.1.2!😍🔥 (18/05/2026 | 21:42)
+- RussoStyle UI atualizada para: v1.2.0!😍🔥 (20/05/2026 | 11:12)
 
--  Removido a opção de inicialização rápida.
+- Readição da opção de inicialização rápida na categoria de atalhos do launcher.
+
+- Adição da opção de compartilhar logs do jogo: Versão do ZL2 2.4.4+
+
+- Adicionado o botão para download das Minhas Shaders personalizadas.
+
+- Outras mudanças mínimas.
