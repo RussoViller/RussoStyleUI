@@ -1,4 +1,4 @@
-## 👑 > RussoStyle UI | v1.3.0 < 👑 
+## 👑 > RussoStyle UI | v1.3.1 < 👑 
 
 **📝 > Versão do Launcher da UI: 2.4.4 < 📝**
 
@@ -11,13 +11,13 @@
 
 ...column-start horizontal=Center
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=18dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=20dp
 
 ...column-end
 
 - - -
 
-## Menu Social:
+## 📱 » Menu Social:
 
 &nbsp;
 
@@ -36,7 +36,7 @@
 
 - - -
 
-## ZalithLauncher2:
+## 📦 » ZalithLauncher2:
 
 
 ...column-start horizontal=Center
@@ -52,17 +52,17 @@
 
 - - -
 
-## Opções de atalho do launcher:
+## » Opções de atalho do launcher:
 
 &nbsp;
 
-**⚡ Inicialização Rápida da versão selecionada!**
+**⚡ » Inicialização Rápida da versão selecionada!**
 
 ...button-outlined text="🚪 Entrar na versão selecionada 🚪" event="launch_game" width=99% shape=20dp
 
 —
 
-**💻 Entrar Direto em Servers que eu jogo!**
+**💻 » Entrar Direto em Servers que eu jogo!**
 
 &nbsp;
 
@@ -78,13 +78,13 @@
 
 —
 
-## 🛠 Compartilhamento de Logs
+## 🛠 » Compartilhamento de Logs
 
 ...button-outlined text="📄 Compartilhar Logs da última sessão da versão selecionada 📃" event="share_game_log" width=99% shape=20dp
 
 - - -
 
-## Alguns Downloads:
+## 🗃️ » Alguns Downloads:
 
 -
 
@@ -101,7 +101,7 @@
 
 - - -
 
-## 👑 Tudo Sobre a RussoStyle UI!
+## 👑 » Tudo Sobre a RussoStyle UI!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -112,10 +112,8 @@
 
 ---
 
-## 🧰 Mudanças/Adições na RussoStyle UI
+## 🧰 » Mudanças/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.3.0!😍🔥 (21/05/2026 | 02:20)
+- RussoStyle UI atualizada para: v1.3.1!😍🔥 (24/05/2026 | 16:09)
 
-- Adicionado a opção para entrar direto nos servidores que eu jogo!
-
-- pequenas mudanças nos botões e em nomes de algumas categorias.
+- Reforma nos nomes das categorias.
