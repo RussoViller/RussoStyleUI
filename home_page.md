@@ -1,4 +1,4 @@
-## 👑 > RussoStyle UI | v1.3.4 < 👑 
+## 👑 > RussoStyle UI | v1.3.6 < 👑 
 
 **📝 > UI Atualizada para ZL2: 2.4.4 < 📝**
 
@@ -24,11 +24,12 @@
 
 ...row-end
 
-...column-start horizontal=Center
+...row-start horizontal=spacedBy(8)
 
-...button text="> Perfil Do YouTube <"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" width=50%
+...button text="> Doações <"  event="url {https://pixgg.com/russoViller02}" weight=(1)
+...button-filled-tonal text="> Perfil Do YouTube <"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
 
-...column-end
+...row-end
 
 - - -
 
@@ -37,7 +38,7 @@
 
 ...column-start horizontal=Center
 
-...button-filled-tonal  text="> Verificar atualização do ZL2 <"  event="check_update"
+...button  text="> Verificar atualização do ZL2 <"  event="check_update"
 
 ...image  url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
@@ -50,7 +51,7 @@
 
 - - -
 
-## » Opções de atalho do launcher:
+## 🚖 » Opções de atalho do launcher:
 
 &nbsp;
 
@@ -123,12 +124,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.3.4!😍🔥 (24/05/2026 | 17:16)
+• RussoStyle UI atualizada para: v1.3.6!😍🔥 (24/05/2026 | 23:23)
 
-› Pequena reforma na categoria de downloads para melhor uso.
-
-› Icone do ZL2 do botão de Verificar Atualização foi atualizada para não atrapalhar tanto na visualização de wallpapers.
-
-› Minha foto no início da página foi mudada para a esquerda para melhorar visualização de wallpapers.
-
-› Outras pequenas mudanças.
+› Adicionado um botão para doações em: Menu Social.
