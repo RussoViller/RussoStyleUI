@@ -131,6 +131,6 @@
 
 › O link de download do Mobile Glues está de volta nessa nova versão da UI.
 
-› Nome dos botões de download alterados para saber qual o site que estará o download
+› Adicionado nome dos locais de download nos nomes dos botões.
 
-› Outras pequenas mudanças
+› Outras pequenas mudanças.
