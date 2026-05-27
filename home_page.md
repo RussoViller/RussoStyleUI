@@ -1,6 +1,6 @@
-## 👑 > RussoStyle UI | v1.3.6 < 👑 
+## 👑 » RussoStyle UI | v1.3.9 « 👑 
 
-**📝 > UI Atualizada para ZL2: 2.4.4 < 📝**
+**📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
 
 &nbsp;
 &nbsp;
@@ -38,7 +38,7 @@
 
 ...column-start horizontal=Center
 
-...button  text="> Verificar atualização do ZL2 <"  event="check_update"
+...button  text="» Verificar atualização do ZL2 «"  event="check_update"
 
 ...image  url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
@@ -46,8 +46,8 @@
 
 &nbsp;
 
-...button-outlined text="* Site oficial do ZalithLauncher2 (CN)"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
-...button-outlined text="* Link do ZalithLauncher2 no GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
+...button-outlined text="› Site oficial do ZalithLauncher2 • China"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
+...button-outlined text="› Link do ZalithLauncher2 • GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
 - - -
 
@@ -77,7 +77,7 @@
 
 •
 
-## 🛠 » Compartilhamento de Logs
+**🛠 » Compartilhamento de Logs**
 
 ...button-outlined text="📄 Compartilhar Logs da última sessão da versão selecionada 📃" event="share_game_log" width=99% shape=20dp
 
@@ -89,9 +89,9 @@
 
 ...column-start horizontal=Center
 
-...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=46%
-...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=46%
-...button-outlined text="Minhas Shaders" event="url {https://www.mediafire.com/folder/xce4845w8b1wb/SHADERS}" width=46%
+...button-outlined text="Meus Modpacks • GitHub" event="url {https://github.com/RussoViller02/Russo-Modpacks/releases/tag/Modpack}" width=46%
+...button-outlined text="Minhas Textura • GitHub" event="url {https://github.com/RussoViller02/Russo-Textures/releases/tag/Textures}" width=46%
+...button-outlined text="Minhas Shaders • GitHub" event="url {https://github.com/RussoViller02/Russo-Shaders/releases/tag/Shaders}" width=46%
 
 ...column-end
 
@@ -103,9 +103,10 @@
 
 ...column-start horizontal=Center
 
-...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=46%
-...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=46%
-...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=46%
+...button-outlined text="Wallpapers Animados • Mediafire" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=46%
+...button-outlined text="Setas Animadas • Mediafire" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=46%
+...button-outlined text="Meu Hud Atualizado • Mediafire" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=46%
+...button-outlined text="Mobile Glues 1.3.4 • GitHub" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=46%
 
 ...column-end
 
@@ -118,12 +119,18 @@
 - Praticidade.
 - Organização.
 - Estilo simples e bonito para agradar a todos!
-- Downloads diretos e fáceis via mediafire!
+- Downloads diretos e rápidos!
 
 ---
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.3.6!😍🔥 (24/05/2026 | 23:23)
+• RussoStyle UI atualizada para: v1.3.9!😍🔥 (27/05/2026 | 3:54)
 
-› Adicionado um botão para doações em: Menu Social.
+› Alguns links de Mediafire foram alterados para o GitHub.
+
+› O link de download do Mobile Glues está de volta nessa nova versão da UI.
+
+› Nome dos botões de download alterados para saber qual o site que estará o download
+
+› Outras pequenas mudanças
