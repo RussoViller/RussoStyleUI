@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.4.1 « 👑 
+## 👑 » RussoStyle UI | v1.4.2 « 👑 
 
 **📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
 
@@ -103,8 +103,8 @@
 
 ...column-start horizontal=Center
 
-...button-outlined text="Wallpapers Animados • Sem link" event="url {}" width=46%
-...button-outlined text="Setas Animadas • Sem link" event="url {}" width=46%
+...button-outlined text="Setinhas Animadas • Sem link" event="url {}" width=46%
+...button-outlined text="Wallpapers Animados • GitHub" event="url {https://github.com/RussoViller/Wallpapers-For-ZL2/releases}" width=46%
 ...button-outlined text="Meu Hud Atualizado • GitHub" event="url {https://github.com/RussoViller/Russo-HUD-Poco-F7/releases/tag/ZL2-HUD}" width=46%
 ...button-outlined text="Mobile Glues 1.3.4 • GitHub" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=46%
 
@@ -125,8 +125,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.4.1!😍🔥 (28/05/2026 | 2:52)
+• RussoStyle UI atualizada para: v1.4.2!😍🔥 (28/05/2026 | 15:34)
 
-› Links do Mediafire complementamente removidos
-
-› Botão de Wallpaper e Mouses animados vão ficar sem uso por um tempinho
+› Botão para downloads de Wallpapers Animados voltou a funcionar.
