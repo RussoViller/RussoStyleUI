@@ -46,7 +46,7 @@
 
 ...column-start horizontal=Center
 
-**💲 » Apoie o criador da página para motivar ele a trazer mais novidades:**
+**💲 » Apoie o criador da página para incentivar ele a trazer mais novidades:**
 
 ...button-outlined text="💲 » Doações « 💲"  event="url {https://pixgg.com/russoViller02}" width=50%
 
