@@ -133,3 +133,5 @@
 › Botão de outros links da categoria Menu Social foi retirado.
 
 › Botão de doações agora tem sua própria Subcategoria.
+
+› Botão de iniciar diretamente a versão selecionada foi removido permanentemente
