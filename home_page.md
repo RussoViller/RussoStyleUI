@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.4.9 « 👑 
+## 👑 » RussoStyle UI | v1.5.7 « 👑 
 
 **📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
 
@@ -9,7 +9,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller/russostyle-photos/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=25% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=25% shape=20dp
 
 - - -
 
@@ -20,7 +20,7 @@
 
 ...button  text="» Verificar atualização do ZL2 «"  event="check_update"
 
-...image  url="https://raw.githubusercontent.com/RussoViller/russostyle-photos/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
+...image  url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
 ...column-end
 
@@ -37,8 +37,8 @@
 
 ...row-start horizontal=spacedBy(8)
 
-...button text="> Perfil Do TikTok <" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
-...button-filled-tonal text="> Perfil Do YouTube <"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
+...button text="⚫ › Perfil Do TikTok ‹ ⚫" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
+...button-filled-tonal text="🔴 › Perfil Do YouTube ‹ 🔴"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
 
 ...row-end
 
@@ -86,30 +86,44 @@
 
 - - -
 
-## 🗃️ » Meus Downloads:
+## 🗃️ » Downloads para o jogo:
 
 &nbsp;
 
 ...column-start horizontal=Center
 
-...button-outlined text="› Meus Modpacks • GitHub ‹" event="url {https://github.com/RussoViller/Russo-Modpacks/releases/tag/Modpack}" width=46%
-...button-outlined text="› Minhas Textura • GitHub ‹" event="url {https://github.com/RussoViller/Russo-Textures/releases/tag/Textures}" width=46%
-...button-outlined text="› Minhas Shaders • GitHub ‹" event="url {https://github.com/RussoViller/Russo-Shaders/releases/tag/Shaders}" width=46%
+...button-outlined text="📦 › Meus Modpacks • GitHub ‹ 📦" event="url {https://github.com/RussoViller/Russo-Modpacks/releases/tag/Modpack}" width=54%
+...button-outlined text="🏔️ › Minhas Textura • GitHub ‹ 🏔️" event="url {https://github.com/RussoViller/Russo-Textures/releases/tag/Textures}" width=54%
+...button-outlined text="☀️ › Minhas Shaders • GitHub ‹ ☀️" event="url {https://github.com/RussoViller/Russo-Shaders/releases/tag/Shaders}" width=54%
 
 ...column-end
 
 &nbsp;
 
-## 📦 » Downloads para seu Launcher:
+## 📦 » Downloads para o seu launcher:
 
 &nbsp;
 
 ...column-start horizontal=Center
 
-...button-outlined text="› Setinhas Animadas • Github ‹" event="url {https://github.com/RussoViller/Setinhas-Animadas/releases}" width=46%
-...button-outlined text="› Wallpapers Animados • GitHub ‹" event="url {https://github.com/RussoViller/Wallpapers-For-ZL2/releases}" width=46%
-...button-outlined text="› Meu Hud Atualizado • GitHub ‹" event="url {https://github.com/RussoViller/Russo-HUD-Poco-F7/releases/tag/ZL2-HUD}" width=46%
-...button-outlined text="› Mobile Glues 1.3.4 • GitHub ‹" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=46%
+...button-outlined text="🖱️ › Setinhas Animadas • Github ‹ 🖱️" event="url {https://github.com/RussoViller/Setinhas-Animadas/releases}" width=54%
+...button-outlined text="🏞️ › Wallpapers Animados • GitHub ‹ 🏞️" event="url {https://github.com/RussoViller/Wallpapers-For-ZL2/releases}" width=54%
+...button-outlined text="🎮 › Meu Hud Atualizado • GitHub ‹ 🎮" event="url {https://github.com/RussoViller/Russo-HUD-Poco-F7/releases/tag/ZL2-HUD}" width=54%
+
+...column-end
+
+&nbsp;
+
+## 👾 » Downloads de plugins para mods:
+
+&nbsp;
+
+...column-start horizontal=Center
+
+...button-outlined text="🗻 › DH Compat Plugin • GitHub ‹ 🗻" event="url {https://github.com/ZalithLauncher/NativeLibPlugin/releases/tag/zstd_jni_1.5.7-6_dhcompat}" width=54%
+...button-outlined text="👾 › Sable Rapier Plugin • GitHub ‹ 👾" event="url {https://github.com/ZalithLauncher/NativeLibPlugin/releases/tag/sable_rapier-0.1.0_NDK_BUILD}" width=54%
+...button-outlined text="👾 › imgui Java Plugin • GitHub ‹ 👾" event="url {https://github.com/ZalithLauncher/NativeLibPlugin/releases/tag/v1.86.12_Patched}" width=54%
+...button-outlined text="📜 › FFmpeg ReplayMod Plugin • GitHub ‹ 📜" event="url {https://github.com/RussoViller/russostyle-saves/releases/tag/FFmpeg}" width=54%
 
 ...column-end
 
@@ -121,13 +135,19 @@
 - Atalhos rápidos do launcher!
 - Praticidade.
 - Organização.
-- Estilo simples e bonito para agradar a todos!
+- Estilo da página simples e agradável
 - Downloads diretos e rápidos!
 
 ---
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.4.9!😍🔥 (29/05/2026 | 15:26)
+• RussoStyle UI atualizada para: v1.5.7!😍🔥 (30/05/2026 | 00:11)
 
-› Adicionado botão com link para o server do Discord da Comunidade BRASILEIRA do ZL2!
+› Botão para download do Mobile Glues foi removido novamente temporariamente.
+
+› Adicionado Emojis em mais botões para melhorar a estética da página.
+
+› Adicionado nova categoria com botões para download direto de plugins para mods.
+
+› outras pequenas mudanças.
