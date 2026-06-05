@@ -1,6 +1,6 @@
-## 👑 » RussoStyleUI | v1.6.0 « 👑 
+## 👑 » RussoStyleUI | v1.6.1 « 👑 
 
-**📝 » Código da UI Atualizada para ZL2: 2.4.5 « 📝**
+**📝 » Código da UI Atualizada para ZL2: 2.4.6 « 📝**
 
 &nbsp;
 &nbsp;
@@ -141,13 +141,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.6.0!😍🔥 (05/06/2026 | 3:17)
+• RussoStyle UI atualizada para: v1.6.1!😍🔥 (05/06/2026 | 13:40)
 
-› Botão para download do meu HUD removido, download do HUD
-agora está dentro do Discord da comunidade.
-
-› Botão de atalho para o Servidor DonutSMP removido.
-
-› Subcategoria de doação teve a posição alterada e virou Categoria.
-
-› Outras pequenas mudanças e adições dentro e fora da página inicial.
+› Código da UI Atualizada para ZL2: 2.4.6
