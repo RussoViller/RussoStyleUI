@@ -1,6 +1,6 @@
-## 👑 » RussoStyle UI | v1.6.4 « 👑 
+## 👑 » RussoStyle UI | v1.6.7 « 👑 
 
-**📝 » Código da UI Atualizada para ZL2: 2.4.9 « 📝**
+**📝 » Código da UI Atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
 
 &nbsp;
 &nbsp;
@@ -83,7 +83,6 @@
 ...column-start horizontal=Center
 
 ...button-outlined text="📦 › Meus Modpacks • GitHub ‹ 📦" event="url {https://github.com/RussoViller/Russo-Modpacks/releases/tag/Modpack}" width=54%
-...button-outlined text="🏔️ › Minhas Textura • GitHub ‹ 🏔️" event="url {https://github.com/RussoViller/Russo-Textures/releases/tag/Textures}" width=54%
 ...button-outlined text="☀️ › Minhas Shaders • GitHub ‹ ☀️" event="url {https://github.com/RussoViller/Russo-Shaders/releases/tag/Shaders}" width=54%
 
 ...column-end
@@ -128,7 +127,7 @@
 
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.6.4!
+## 👑 » Tudo Sobre a RussoStyle UI 1.6.7!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -141,4 +140,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.6.4!😍🔥 (26/06/2026 | 03:50)
+• RussoStyle UI atualizada para: v1.6.7!😍🔥 (26/06/2026 | 14:26)
+
+› Remoção do botão de download da minha textura, pois agora ela está disponível através do curseforge.
