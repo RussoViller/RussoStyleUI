@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.6.8 « 👑 
+## 👑 » RussoStyle UI | v1.7.0 « 👑 
 
 **📝 » Código da página atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
 
@@ -9,7 +9,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=25% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/file_00000000a0bc720e97a297e43f776dc9.png" width=25% shape=20dp
 
 - - -
 
@@ -127,7 +127,7 @@
 
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.6.8!
+## 👑 » Tudo Sobre a RussoStyle UI 1.7.0!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -140,4 +140,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.6.8!😍🔥 (27/06/2026 | 17:15)
+• RussoStyle UI atualizada para: v1.7.0! 😍🔥 (09/07/2026 | 18:46)
+
+› Foto principal do dono da página atualizada!
