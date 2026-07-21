@@ -1,4 +1,4 @@
-## 👑 » RussoZL2 UI | v1.8.4 « 👑 
+## 👑 » RussoZL2 UI | v1.8.5 « 👑 
 
 **📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
@@ -60,21 +60,7 @@
 
 - - -
 
-...column-start horizontal=Center
-
-**💲 » Apoie o criador da página para incentivar ele a continuar « 💲**
-
-&nbsp;
-
-...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260718_001900514.png" width=35%
-
-...column-end
-
-&nbsp;
-
-- - -
-
-## 👑 » Tudo Sobre a RussoZL2 UI 1.8.4!
+## 👑 » Tudo Sobre a RussoZL2 UI 1.8.5!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -86,12 +72,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoZL2 UI
 
-• RussoZL2 UI atualizada para: v1.8.4! 😍🔥 (21/07/2026 | 14:51)
+• RussoZL2 UI atualizada para: v1.8.5! 😍🔥 (21/07/2026 | 15:40)
 
-› Nome da página alterado.
-
-› Removido toda a categoria de downloads. (agora está quase tudo no meu Discord!)
-
-› Alteração nas posições de algumas categorias.
-
-› Mudança em alguns textos.
+› Removido a categoria para doações.
