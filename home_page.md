@@ -1,6 +1,6 @@
 ## 👑 » RussoZL2 UI | v1.8.4 « 👑 
 
-**📝 » Página 100% para ZL2 2.4.4+! « 📝**
+**📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
 &nbsp;
 &nbsp;
